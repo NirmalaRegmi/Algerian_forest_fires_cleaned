@@ -7,7 +7,4 @@ This repository contains an analysis of the Algerian forest fire dataset with a 
 ## Key Features
 - Dataset includes variables such as temperature, humidity, wind speed, and more.
 
-## Installation
-Install the required packages using pip:
-```bash
-pip install -r requirements.txt
+
